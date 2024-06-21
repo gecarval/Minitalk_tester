@@ -11,11 +11,11 @@ Em um terminal separado exceute ./tester.sh <PID>
 
 EXECUÇÃO
 
-Flag de execução mandatoria ./tester.sh '-m -1 -2 PID'
+Flag de execução mandatoria ./tester.sh -m -1 -2 PID
 
-Flag de execução bonus ./tester.sh '-m -3 -4 -5 PID'
+Flag de execução bonus ./tester.sh -m -3 -4 -5 PID
 
-Flag de execução all ./tester.sh '-m -1 -2 -3 -4 -5 PID'
+Flag de execução all ./tester.sh -m -1 -2 -3 -4 -5 PID
 
  FLAGS
 
