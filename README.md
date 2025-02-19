@@ -1,9 +1,9 @@
 # Minitalk_tester
 <p align="center">
-	<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/ailopez-o/42Barcelona-pushswap-prochecker?color=lightblue" />
-	<img alt="Code language count" src="https://img.shields.io/github/languages/count/ailopez-o/42Barcelona-pushswap-prochecker?color=yellow" />
-	<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/ailopez-o/42Barcelona-pushswap-prochecker?color=blue" />
-	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/ailopez-o/42Barcelona-pushswap-prochecker?color=green" />
+	<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/gecarval/Minitalk_tester?color=lightblue" />
+	<img alt="Code language count" src="https://img.shields.io/github/languages/count/gecarval/Minitalk_tester?color=yellow" />
+	<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/gecarval/Minitalk_tester?color=blue" />
+	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/gecarval/Minitalk_tester?color=green" />
 </p>
 The minitalk tester is a project made for testing the 42 Minitalk project, by sending multiple messages using interprocess comunication using bitwise operator to receive the messages from a client and signals `SIGUSR1` and `SIGUSR2` to send the data to the server.
 
